@@ -226,7 +226,7 @@
   font-weight: normal;
 }
 
-.feyman__feynman-pic {
+.feynman__feynman-pic {
   z-index: 0;
   height: 637px;
   width: 867px;
@@ -294,6 +294,7 @@
 }
 
 .footer {
+  display: flex;
   min-height: 350px;
   margin: 0 auto;
   background-color: #1f1f1f;
