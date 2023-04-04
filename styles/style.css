@@ -6,7 +6,7 @@
   /* выше установили ограничение по максимальной ширине */
   margin: 0 auto;
   /* выше для экранов больше 1600px отцентрировали весь контент */
-  font-family:  'Helvetica Neue', Arial, sans-serif ;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
 }
 
 .header {
@@ -338,6 +338,7 @@
   padding: 0;
   list-style: none;
   margin-bottom: 16px;
+  list-style: none;
 }
 
 .footer__column-link {
@@ -350,10 +351,6 @@
   line-height: 30px;
   font-weight: normal;
   text-decoration: none;
-}
-
-.footer__column-links {
-  list-style: none;
 }
 
 .footer__social-icon {
