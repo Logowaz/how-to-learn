@@ -1,0 +1,15 @@
+.header__link {
+    z-index: 3;
+    margin-left: 0px;
+    line-height: 25px;
+    font-size: 18px;
+    font-weight: normal;
+    color: #2f80ed;
+    text-decoration: none;
+    opacity: 1;
+    transition: opacity .5s linear .05s;
+  }
+
+  .header__link:hover {
+    opacity: .5;
+  }
